@@ -13,7 +13,7 @@ http://www.colibra.net (english).
 
 
 
-ICENSE jQuery.Colibra 1.5.0 COMPILATION
+LICENSE jQuery.Colibra 1.5.0 COMPILATION
 ========================================
 
 Colibra is distributed as free software by licensing "Apache Licence v2.0"
