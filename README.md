@@ -71,4 +71,4 @@ colibraTree       | 1.1 (**) | Collapsible tree.
 colibraTabs       | 1.1 (**) | Contents tabs.
 
 (* ) new class.
-(**) update class.
+(**) update class.
